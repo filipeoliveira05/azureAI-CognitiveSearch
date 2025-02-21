@@ -1,4 +1,4 @@
-# Azure Cognitive Search: Utilizando AI Search para Indexação e Consulta de Dados
+# Azure Cognitive Search: Indexação e Consulta de Dados com AI Search
 
 ## 📌 Introdução
 Este repositório explora o **Azure Cognitive Search**, um serviço utilizado para **indexação e consulta de dados** usando inteligência artificial. Vamos entender três conceitos principais:
